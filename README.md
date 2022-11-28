@@ -1,4 +1,4 @@
 # Calendar
 Simple calendar in JS
 
-https://Kirill1711.github.io/Calendar/
+https://kirill1711.github.io/Calendar/
